@@ -1,0 +1,12 @@
+---
+title: "Sarah's Site"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Sarah's Homepage
+
+![](https://media3.giphy.com/media/yr7n0u3qzO9nG/source.gif)
