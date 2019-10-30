@@ -7,6 +7,12 @@ output:
     theme: cerulean
 ---
 
-# Sarah's Homepage!
+# Enter At Your Own Risk
 
 ![](https://media3.giphy.com/media/yr7n0u3qzO9nG/source.gif)
+
+# Professional Information
+[Resume](resume.html)
+
+# Personal Information
+[Get to know me](personal.html)
