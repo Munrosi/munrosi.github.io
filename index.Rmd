@@ -7,6 +7,6 @@ output:
     theme: cerulean
 ---
 
-# Sarah's Homepage
+# Sarah's Homepage!
 
 ![](https://media3.giphy.com/media/yr7n0u3qzO9nG/source.gif)
