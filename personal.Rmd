@@ -1,0 +1,8 @@
+---
+title: "Learn About Sarah"
+output: html_document
+---
+
+I am a 25 year old female born and raised in Arkansas. 
+
+I am currently an MPH candidate at Columbia University in New York
