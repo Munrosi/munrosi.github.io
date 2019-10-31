@@ -7,7 +7,7 @@ output:
     theme: cerulean
 ---
 
-_ENTER AT YOUR OWN RISK_
+# ENTER AT YOUR OWN RISK
 
 ![](https://media3.giphy.com/media/yr7n0u3qzO9nG/source.gif)
 
