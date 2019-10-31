@@ -11,9 +11,11 @@ library(flexdashboard)
 library(tidyverse)
 library(viridis)
 library(p8105.datasets)
-install.packages("plotly")
 
 library(plotly)
+```
+
+```{r}
 data("instacart")
 ```
 
