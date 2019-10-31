@@ -22,7 +22,7 @@ data("instacart")
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Top 10 Products Ordered
 
 ```{r}
 instacart %>%
@@ -34,7 +34,7 @@ instacart %>%
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Distribution of Order Time by Department
 
 ```{r}
 instacart %>%
@@ -42,7 +42,7 @@ plot_ly(y = ~order_hour_of_day, color = ~department, type = "box",
           colors = "Set2")
 ```
 
-### Chart C
+### Order frequency by aisle
 
 ```{r}
 instacart %>%
