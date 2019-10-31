@@ -7,5 +7,42 @@ output:
     theme: cerulean
 ---
 
+Practice with plotly graphs
+
+```{r,  echo=FALSE}
+library(tidyverse)
+library(viridis)
+library(p8105.datasets)
+install.packages("plotly")
+
+library(plotly)
+```
+
+```{r}
+data("instacart")
+```
+
+```{r}
+instacart %>%
+  count(product_name, name = "n_orders") %>%
+  top_n(10) %>%
+  plot_ly(x = ~product_name, y = ~n_orders, color = ~product_name, type = "bar")
+```
+
+```{r}
+box_plot = 
+instacart %>%
+  count(product_name, name = "n_orders") %>%
+  top_n(10) %>%
+  ggplot(aes(x = product_name, fill = n_orders)) + geom_histogram() + labs(title = "Top 10 Products Ordered", x = "Product", y = "Number of Orders") 
+
+ggplotly(box_plot)
+```
+
+```{r}
+instacart %>%
+plot_ly(y = ~order_hour_of_day, color = ~department, type = "box",
+          colors = "Set2")
+```
 
 

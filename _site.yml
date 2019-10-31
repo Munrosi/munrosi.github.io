@@ -2,8 +2,8 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "Plotly"
-      href: plotly.html
+    - text: "Dashboard"
+      href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<smunro122@gmail.com>
     - icon: fa-github fa-lg
