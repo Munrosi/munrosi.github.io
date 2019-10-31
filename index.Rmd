@@ -1,5 +1,5 @@
 ---
-title: "Sarah's Site"
+title: "Sarah's Super Site"
 output: 
   html_document:
     toc: true
@@ -7,7 +7,7 @@ output:
     theme: cerulean
 ---
 
-# Enter At Your Own Risk
+_ENTER AT YOUR OWN RISK_
 
 ![](https://media3.giphy.com/media/yr7n0u3qzO9nG/source.gif)
 
