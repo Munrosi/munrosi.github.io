@@ -2,7 +2,7 @@
 title: "All Things Sarah"
 output: 
   html_document:
-  theme: journal
+  theme: united
 ---
 
 I'm a 25 year old student living in NYC.
@@ -12,6 +12,7 @@ I was born and raised in Arkansas- Go Razorbacks
 <iframe src="https://giphy.com/embed/l1J9zzwIqWfBWJ9v2" width="480" height="244" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/secnetwork-college-football-sec-l1J9zzwIqWfBWJ9v2">via GIPHY</a></p>
 
 I'm a big geek about the ocean, so I majored in marine biology at my undergraduate institution College of Charleston
+
 <iframe src="https://giphy.com/embed/IW8v4AX8GgwM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ocean-IW8v4AX8GgwM">via GIPHY</a></p>
 
 Scuba Diving is my absolute favorite activity, followed closely by traveling.
