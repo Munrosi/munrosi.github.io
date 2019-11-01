@@ -7,7 +7,7 @@ navbar:
     - icon: fa-envelope fa-lg
       href: mailto:<smunro122@gmail.com>
     - icon: fa-github fa-lg
-      href: http://github.com/<munrosi>/
+      href: http://github.com/<Munrosi>/
 output:
   html_document:
     theme: united
