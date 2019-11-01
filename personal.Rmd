@@ -2,7 +2,7 @@
 title: "All Things Sarah"
 output: 
   html_document:
-  theme: united
+  theme: journal
 ---
 
 I'm a 25 year old student living in NYC.
@@ -24,6 +24,7 @@ I loved it so much I moved to Spain to teach for another year.
 My goal is to be trilingual by age 30 (don't ask about my progress..)
 
 I love infectious diseases, as much as one could 'love' such a thing 
+
 <iframe src="https://giphy.com/embed/xBIyz9QWatPdm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/artists-on-tumblr-foxadhd-xBIyz9QWatPdm">via GIPHY</a></p>
 
 After I complete this degree, I'm hoping to pursue work in the area of one health. I hope to get involved with infectious disease surveillance in wildlife, and seek opportunities to do lab work and field work abroad. 
