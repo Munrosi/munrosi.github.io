@@ -4,15 +4,19 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+    theme: journal
 ---
 
-# ENTER AT YOUR OWN RISK
+
+_**ENTER AT YOUR OWN RISK**_
 
 ![](https://media3.giphy.com/media/yr7n0u3qzO9nG/source.gif)
+
 
 # Professional Information
 [Here](resume.html)
 
 # Personal Information
 [Here](personal.html)
+
+![](https://media1.giphy.com/media/3o6ZtpWvwnhf34Oj0A/source.gif)
