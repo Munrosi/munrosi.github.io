@@ -1,7 +1,8 @@
 ---
 title: "Resume"
-output: html_document
-  theme: journal
+output: 
+  html_document:
+  theme: paper
 ---
 
 **EDUCATION**
@@ -56,3 +57,6 @@ Facilitated boat rentals and store purchases, as well as pumping oil and gas for
 CAMP COUNSELOR                                                                        _Summer 2013_
 Camp Winnamocka                                                                     Arkadelphia, Arkansas
 Overnight adventure camp requiring 24-hour supervision and facilitation of outdoor activities for children ages 6-16.
+
+
+<iframe src="https://giphy.com/embed/XckDxJImzMygmSq3GZ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jefferiesshow-jim-jefferies-show-the-XckDxJImzMygmSq3GZ">via GIPHY</a></p>
