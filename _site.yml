@@ -3,7 +3,7 @@ navbar:
   title: "Home"
   right:
     - text: "Dashboard"
-      href: dashboard.html
+      href: Dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<smunro122@gmail.com>
     - icon: fa-github fa-lg
